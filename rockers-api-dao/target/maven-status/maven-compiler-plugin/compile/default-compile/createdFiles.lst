@@ -1,0 +1,4 @@
+com\rockers\api\repository\EmployeeRepository.class
+com\rockers\api\repository\TeamRepository.class
+com\rockers\api\repository\UserRepository.class
+com\rockers\api\repository\ContractRepository.class
